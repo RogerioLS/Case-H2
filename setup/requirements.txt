@@ -1,0 +1,11 @@
+pandas
+numpy
+yfinance
+matplotlib
+investpy
+tqdm
+scikit-learn
+plotly
+streamlit
+seaborn
+ipywidgets
