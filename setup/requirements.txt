@@ -9,3 +9,5 @@ plotly
 streamlit
 seaborn
 ipywidgets
+statsmodels
+pmdarima
