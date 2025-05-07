@@ -64,3 +64,10 @@ Onde:
 - A soma das variações percentuais diárias dá o momentum total do ativo durante o período.
 
 ---
+
+AWS
+terraform
+git actions
+streamlit
+git summary
+pre-commit.
